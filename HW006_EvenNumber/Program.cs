@@ -13,7 +13,7 @@ if (number == 0)
    Console.WriteLine("Number is not Even or Odd"); 
    
    else if (number % 2 != 0) 
-    Console.WriteLine($"Number {number} is Odd");
+    Console.WriteLine($"Число {number} четное? -> нет");
 
 else 
-Console.WriteLine($"Number {number} is Even");
+Console.WriteLine($"Число {number} четное? -> да");
